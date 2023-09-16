@@ -1,8 +1,6 @@
-```
+# Portfólio
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+# Olá, bem-vindo ao meu primeiro projeto de desenvolvimento web.
 
 ## Ferramentas utilizadas:
 
@@ -14,8 +12,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Moisés Bier
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
-```
+### Linkedin: https://www.linkedin.com/in/moisesbier/
