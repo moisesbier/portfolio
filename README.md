@@ -1,6 +1,6 @@
 # Portfólio
 
-# Olá, bem-vindo ao meu primeiro projeto de desenvolvimento web.
+#### Olá, bem-vindo ao meu primeiro projeto de desenvolvimento web.
 
 ## Ferramentas utilizadas:
 
@@ -10,8 +10,10 @@
 
 * Flex-box
 
-## Feito por:
+## Desenvolvido por:
 
 ### Moisés Bier
 
-### Linkedin: https://www.linkedin.com/in/moisesbier/
+#### Linkedin: https://www.linkedin.com/in/moisesbier/
+
+#### Site: https://portfolio-teal-kappa-88.vercel.app/
