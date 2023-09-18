@@ -17,3 +17,5 @@
 #### Linkedin: https://www.linkedin.com/in/moisesbier/
 
 #### Site: https://portfolio-teal-kappa-88.vercel.app/
+
+![Tela inicial do site](https://i.imgur.com/u3IzcsJ.png)
