@@ -19,3 +19,5 @@
 #### Site: https://moisesbier.vercel.app/
 
 ![Tela inicial do site](https://i.imgur.com/u3IzcsJ.png)
+
+> Em desenvolvimento
