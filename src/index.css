@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@keyframes blob-float {
+  0%, 100% { transform: translate(0px, 0px) scale(1); }
+  25%       { transform: translate(14px, -22px) scale(1.04); }
+  50%       { transform: translate(-10px, 14px) scale(0.97); }
+  75%       { transform: translate(18px, 6px) scale(1.02); }
+}
+
+@keyframes blob-float-alt {
+  0%, 100% { transform: translate(0px, 0px) scale(1); }
+  25%       { transform: translate(-20px, 12px) scale(1.06); }
+  50%       { transform: translate(12px, -18px) scale(0.94); }
+  75%       { transform: translate(-6px, -10px) scale(1.03); }
+}
+
+@keyframes particle-twinkle {
+  0%, 100% { opacity: 0; transform: scale(0.4); }
+  50%       { opacity: 1; transform: scale(1); }
+}
+
+@keyframes particle-drift {
+  0%, 100% { opacity: 0.12; transform: translate(0px, 0px); }
+  35%       { opacity: 0.7;  transform: translate(3px, -5px); }
+  70%       { opacity: 0.35; transform: translate(-2px, 3px); }
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    background-color: #ffffff;
+    color: #111827;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  #root {
+    width: 100%;
+    min-height: 100vh;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}
