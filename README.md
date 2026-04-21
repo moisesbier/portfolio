@@ -38,27 +38,11 @@ Criar um site moderno e profissional para:
 
 ---
 
-## 📂 Estrutura do projeto
-
-src/
-components/ # Componentes reutilizáveis
-hooks/ # Hooks personalizados
-main.jsx # Entrada da aplicação
-App.jsx # Componente principal
-App.css # Estilos globais
-index.css # Estilos base
-
-public/
-previews/ # Imagens dos projetos
-
-
----
-
 ## 🌐 Acesso ao projeto
 
 👉 Acesse o site online:
 
-LINK
+https://moisesbier.com.br/
 
 ---
 
@@ -66,24 +50,8 @@ LINK
 
 O portfólio inclui:
 
-- Projetos públicos com acesso direto
 - Experiência profissional com sistemas reais (descrita de forma resumida)
-
----
-
-## 📬 Contato
-
-- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
-- 🐙 GitHub: https://github.com/SEU-USUARIO
-- 📸 Instagram: https://instagram.com/SEU-USUARIO
-- 📧 Email: SEUEMAIL@gmail.com
-- 💬 WhatsApp: https://wa.me/55SEUNUMERO
-
----
-
-## ⚠️ Observações
-
-Alguns projetos profissionais são apresentados de forma resumida por envolverem contexto corporativo e informações internas.
+- Projetos públicos com acesso direto
 
 ---
 
