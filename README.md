@@ -2,7 +2,6 @@
 
 Este é o meu portfólio profissional, desenvolvido com foco em apresentar projetos e serviços de criação de sites e landing pages voltados para resultado.
 
----
 
 ## 💼 Sobre
 
