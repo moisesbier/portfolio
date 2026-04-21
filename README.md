@@ -1,9 +1,10 @@
-# 🚀 Portfólio - Moisés Bier
+🚀 Portfólio - Moisés Bier
 
 Este é o meu portfólio profissional, desenvolvido com foco em apresentar projetos e serviços de criação de sites e landing pages voltados para resultado.
 
+---
 
-## 💼 Sobre
+💼 Sobre
 
 Sou desenvolvedor com experiência na criação de soluções digitais, atuando principalmente com:
 
