@@ -1,16 +1,92 @@
-# React + Vite
+# 🚀 Portfólio - Moisés Bier
 
-Este template oferece uma configuração mínima para usar React com Vite, incluindo HMR (Hot Module Replacement) e algumas regras de ESLint.
+Este é o meu portfólio profissional, desenvolvido com foco em apresentar projetos e serviços de criação de sites e landing pages voltados para resultado.
 
-Atualmente, dois plugins oficiais estão disponíveis:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) utiliza o [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) utiliza o [SWC](https://swc.rs/)
+## 💼 Sobre
 
-## React Compiler
+Sou desenvolvedor com experiência na criação de soluções digitais, atuando principalmente com:
 
-O React Compiler não está habilitado neste template devido ao impacto no desempenho em desenvolvimento e build. Para adicioná-lo, consulte [esta documentação](https://react.dev/learn/react-compiler/installation).
+- Criação de sites institucionais
+- Desenvolvimento de landing pages
+- Interfaces modernas e responsivas
+- Experiência do usuário (UX/UI)
 
-## Expandindo a configuração do ESLint
+Neste projeto, apresento tanto projetos públicos quanto experiências profissionais reais (de forma descritiva, respeitando confidencialidade).
 
-Se você estiver desenvolvendo uma aplicação para produção, recomendamos utilizar TypeScript com regras de lint baseadas em tipos habilitadas. Confira o [template TS](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) para saber como integrar TypeScript e [`typescript-eslint`](https://typescript-eslint.io) ao projeto.
+---
+
+## 🎯 Objetivo do projeto
+
+Criar um site moderno e profissional para:
+
+- Demonstrar habilidades técnicas
+- Apresentar projetos desenvolvidos
+- Atrair novos clientes
+- Transmitir confiança e profissionalismo
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## 📂 Estrutura do projeto
+
+src/
+components/ # Componentes reutilizáveis
+hooks/ # Hooks personalizados
+main.jsx # Entrada da aplicação
+App.jsx # Componente principal
+App.css # Estilos globais
+index.css # Estilos base
+
+public/
+previews/ # Imagens dos projetos
+
+
+---
+
+## 🌐 Acesso ao projeto
+
+👉 Acesse o site online:
+
+LINK
+
+---
+
+## 📸 Projetos em destaque
+
+O portfólio inclui:
+
+- Projetos públicos com acesso direto
+- Experiência profissional com sistemas reais (descrita de forma resumida)
+
+---
+
+## 📬 Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
+- 🐙 GitHub: https://github.com/SEU-USUARIO
+- 📸 Instagram: https://instagram.com/SEU-USUARIO
+- 📧 Email: SEUEMAIL@gmail.com
+- 💬 WhatsApp: https://wa.me/55SEUNUMERO
+
+---
+
+## ⚠️ Observações
+
+Alguns projetos profissionais são apresentados de forma resumida por envolverem contexto corporativo e informações internas.
+
+---
+
+## 💡 Autor
+
+Desenvolvido por **Moisés Bier**
