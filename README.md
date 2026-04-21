@@ -1,10 +1,10 @@
-🚀 Portfólio - Moisés Bier
+## 🚀 Portfólio - Moisés Bier
 
 Este é o meu portfólio profissional, desenvolvido com foco em apresentar projetos e serviços de criação de sites e landing pages voltados para resultado.
 
----
 
-💼 Sobre
+
+## 💼 Sobre
 
 Sou desenvolvedor com experiência na criação de soluções digitais, atuando principalmente com:
 
@@ -15,7 +15,7 @@ Sou desenvolvedor com experiência na criação de soluções digitais, atuando 
 
 Neste projeto, apresento tanto projetos públicos quanto experiências profissionais reais (de forma descritiva, respeitando confidencialidade).
 
----
+
 
 ## 🎯 Objetivo do projeto
 
@@ -26,7 +26,7 @@ Criar um site moderno e profissional para:
 - Atrair novos clientes
 - Transmitir confiança e profissionalismo
 
----
+
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -36,7 +36,7 @@ Criar um site moderno e profissional para:
 - HTML5
 - CSS3
 
----
+
 
 ## 🌐 Acesso ao projeto
 
@@ -44,7 +44,7 @@ Criar um site moderno e profissional para:
 
 https://moisesbier.com.br/
 
----
+
 
 ## 📸 Projetos em destaque
 
@@ -53,7 +53,7 @@ O portfólio inclui:
 - Experiência profissional com sistemas reais (descrita de forma resumida)
 - Projetos públicos com acesso direto
 
----
+
 
 ## 💡 Autor
 
